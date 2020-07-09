@@ -1,0 +1,14 @@
+.map-dashboard {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+
+    .dashboard-form {
+        width: 150px;
+        height: 80px;
+        justify-content: space-around;
+        display: flex;
+        flex-direction: column;
+    }
+}
